@@ -3,7 +3,7 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>JQuery Datatable + Spring MVC Example</title>
+	<title>JQuery Datatable + Spring MVC Example by Abid Anjum</title>
 </head>
 <body>
 	<div style="width: 100%;">
